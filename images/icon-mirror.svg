@@ -1,0 +1,25 @@
+<svg id="Playdate-Mirror.svg" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffc833;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #322f27;
+      }
+
+      .cls-3 {
+        fill: #b1afa8;
+      }
+
+      .cls-4 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-1" width="64" height="64" rx="8" ry="8"/>
+  <rect id="Rounded_Rectangle_1-2" data-name="Rounded Rectangle 1" class="cls-2" x="5" y="5" width="54" height="54" rx="4" ry="4"/>
+  <circle class="cls-3" cx="32" cy="32" r="17.469"/>
+  <path class="cls-4" d="M674,792l17,10-17,10V792Z" transform="translate(-648 -770)"/>
+</svg>

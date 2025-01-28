@@ -1,0 +1,40 @@
+input,
+button {
+	font-family: inherit;
+	font-size: 1rem;
+
+	width: 100%;
+	display: block;
+	margin: 0 0 1.5rem;
+	padding: 1.15rem;
+
+	background: white;
+	border: none;
+	border-radius: 0.75rem;
+
+	outline: none;
+
+	box-shadow: inset 4px 4px 0;
+	box-shadow: 4px 4px 0 #ffa601;
+}
+
+.button-container {
+    display: flex;
+    gap: 20px; /* Mezera mezi tlačítky */
+}
+
+button {
+	cursor: pointer;
+
+	color: white;
+	background: #333;
+
+	box-shadow: 4px 4px 0 #ffa601;
+}
+
+button:hover,
+button:focus,
+button:active {
+	background: #444;
+	box-shadow: 4px 4px 0 #f9b331;
+}

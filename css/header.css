@@ -1,0 +1,10 @@
+header {
+	text-align: center;
+	position: relative;
+	top: 5px;
+}
+
+header img {
+	width: 50%;
+	/* vertical-align: bottom; */
+}

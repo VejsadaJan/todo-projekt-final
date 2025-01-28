@@ -1,0 +1,48 @@
+*, *::before, *::after {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 80%;
+}
+
+body {
+	color: rgb(49, 47, 40);
+	background: rgb(76,74,89);
+
+	/*background: rgb(255, 200, 51);*/
+
+	font-family: Futura, "Segoe UI", Tahoma, Geneva,
+		Verdana, sans-serif;
+
+	padding: 1rem;
+
+	max-width: 48rem;
+	margin: 0 auto;
+}
+
+strong,
+em {
+	color: rgb(255, 204, 64);
+}
+
+h1,
+h2,
+h3,
+h4 {
+	margin: 0;
+}
+
+h3 {
+	font-size: 1.75rem;
+	text-shadow: -1px 1px 0 #333;
+}
+
+/**
+ * MEDIA QUERIES
+ */
+@media screen and (min-width: 670px) {
+	html {
+		font-size: 100%;
+	}
+}
