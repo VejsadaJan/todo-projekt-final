@@ -5,8 +5,6 @@ import * as db from './database.js';
 import 'animate.css';
 
 
-
-
 /**
  * SELECT HTML ELEMENTS
  */
